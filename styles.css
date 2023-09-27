@@ -1,2 +1,9 @@
+nav{
+	display:flex;
+	background-color:black;
+}
 
+a{
+	text-decration:none;
+}
 /* Your CSS Code here. */
